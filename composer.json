@@ -1,6 +1,7 @@
 {
     "require": {
-        "phpunit/phpunit": "^7.3"
+        "phpunit/phpunit": "^7.3",
+        "squizlabs/php_codesniffer": "*"
     },
     "autoload": {
         "psr-4": {
