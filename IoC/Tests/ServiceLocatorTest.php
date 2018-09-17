@@ -1,9 +1,9 @@
 <?php
 
-namespace DesignPatterns\More\ServiceLocator\Tests;
+namespace DesignPatterns\IoC\ServiceLocator\Tests;
 
-use DesignPatterns\More\ServiceLocator\LogService;
-use DesignPatterns\More\ServiceLocator\ServiceLocator;
+use DesignPatterns\IoC\ServiceLocator\LogService;
+use DesignPatterns\IoC\ServiceLocator\ServiceLocator;
 use PHPUnit\Framework\TestCase;
 
 class ServiceLocatorTest extends TestCase

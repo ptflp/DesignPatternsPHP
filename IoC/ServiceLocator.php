@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\More\ServiceLocator;
+namespace DesignPatterns\IoC\ServiceLocator;
 
 class ServiceLocator
 {
